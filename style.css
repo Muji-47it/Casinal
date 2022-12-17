@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+.imag1{
+    margin-top: -16rem;
+}
+.bold{
+    font-weight:bolder;
+}
+@tailwind utilities;
